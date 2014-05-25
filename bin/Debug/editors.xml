@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<autoscreen>
+   <editors>
+      <editor>
+         <name>GIMP</name>
+         <application>C:\Program Files (x86)\GIMP-2.0\bin\gimp-2.6.exe</application>
+         <arguments>%screenshot%</arguments>
+      </editor>
+      <editor>
+         <name>Microsoft Paint</name>
+         <application>C:\Windows\System32\mspaint.exe</application>
+         <arguments>%screenshot%</arguments>
+      </editor>
+      <editor>
+         <name>Internet Explorer</name>
+         <application>C:\Program Files (x86)\Internet Explorer\iexplore.exe</application>
+         <arguments>%screenshot%</arguments>
+      </editor>
+   </editors>
+</autoscreen>

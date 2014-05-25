@@ -1,0 +1,31 @@
+C:\Development\Auto Screen Capture\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\bin\Debug\AutoScreenCapture2.exe
+C:\Development\Auto Screen Capture\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\bin\Debug\AutoScreenCapture2.pdb
+C:\Development\Auto Screen Capture\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Auto Screen Capture\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\AutoScreenCapture2.FormFullScreenMode.resources
+C:\Development\Auto Screen Capture\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\AutoScreenCapture2.FormMain.resources
+C:\Development\Auto Screen Capture\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\AutoScreenCapture2.Properties.Resources.resources
+C:\Development\Auto Screen Capture\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\AutoScreenCapture2.exe
+C:\Development\Auto Screen Capture\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\AutoScreenCapture2.pdb
+C:\Development\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\AutoScreenCapture2.exe
+C:\Development\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\AutoScreenCapture2.pdb
+C:\Development\AutoScreenCapture2\AutoScreenCapture2\bin\Debug\AutoScreenCapture2.exe
+C:\Development\AutoScreenCapture2\AutoScreenCapture2\bin\Debug\AutoScreenCapture2.pdb
+C:\Development\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\AutoScreenCapture2.FormFullScreenMode.resources
+C:\Development\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\AutoScreenCapture2.FormMain.resources
+C:\Development\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\AutoScreenCapture2.Properties.Resources.resources
+C:\Development\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\GenerateResource.read.1.tlog
+C:\Development\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\GenerateResource.write.1.tlog
+C:\Development\Auto Screen Capture\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\GenerateResource.read.1.tlog
+C:\Development\Auto Screen Capture\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\AutoScreenCapture2.csproj.GenerateResource.Cache
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\autoscreen.FormAbout.resources
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\autoscreen.FormOptions.resources
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\autoscreen.FormViewer.resources
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\autoscreen.Properties.Resources.resources
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\bin\Debug\autoscreen.exe
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\bin\Debug\autoscreen.pdb
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\autoscreen.exe
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\autoscreen.pdb
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\autoscreen.FormAddEditor.resources
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\AutoScreenCapture2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Development\Auto Screen Capture\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\bin\Release\AutoScreenCapture2.exe
+C:\Development\Auto Screen Capture\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\bin\Release\AutoScreenCapture2.pdb
+C:\Development\Auto Screen Capture\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\obj\Release\ResolveAssemblyReference.cache
+C:\Development\Auto Screen Capture\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\obj\Release\AutoScreenCapture2.FormMain.resources
+C:\Development\Auto Screen Capture\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\obj\Release\AutoScreenCapture2.Properties.Resources.resources
+C:\Development\Auto Screen Capture\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\obj\Release\AutoScreenCapture2.csproj.GenerateResource.Cache
+C:\Development\Auto Screen Capture\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\obj\Release\AutoScreenCapture2.exe
+C:\Development\Auto Screen Capture\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\AutoScreenCapture2\obj\Release\AutoScreenCapture2.pdb
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Release\AutoScreenCapture2.exe
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Release\AutoScreenCapture2.pdb
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\bin\Release\AutoScreenCapture2.exe
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\bin\Release\AutoScreenCapture2.pdb
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Release\AutoScreenCapture2.FormFullScreenMode.resources
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Release\AutoScreenCapture2.FormMain.resources
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Release\AutoScreenCapture2.Properties.Resources.resources
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Release\AutoScreenCapture2.csproj.GenerateResource.Cache

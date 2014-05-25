@@ -1,0 +1,8 @@
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\autoscreen.pdb
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\bin\Debug\autoscreen.exe
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\bin\Debug\autoscreen.pdb
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\autoscreen.FormAddEditor.resources
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\autoscreen.FormMain.resources
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\autoscreen.Properties.Resources.resources
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\autoscreen.csproj.GenerateResource.Cache
+C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\autoscreen.exe
