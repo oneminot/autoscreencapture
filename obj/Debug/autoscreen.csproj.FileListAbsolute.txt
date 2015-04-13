@@ -6,3 +6,12 @@ C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\a
 C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\autoscreen.Properties.Resources.resources
 C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\autoscreen.csproj.GenerateResource.Cache
 C:\Users\gavin.kendall\Desktop\AutoScreenCapture2\AutoScreenCapture2\obj\Debug\autoscreen.exe
+C:\Users\CS\Documents\kus\autoscreencapture\obj\Debug\autoscreen.exe
+C:\Users\CS\Documents\kus\autoscreencapture\obj\Debug\autoscreen.pdb
+C:\Users\CS\Documents\kus\autoscreencapture\bin\Debug\autoscreen.exe
+C:\Users\CS\Documents\kus\autoscreencapture\bin\Debug\autoscreen.pdb
+C:\Users\CS\Documents\kus\autoscreencapture\obj\Debug\autoscreen.csprojResolveAssemblyReference.cache
+C:\Users\CS\Documents\kus\autoscreencapture\obj\Debug\autoscreen.FormAddEditor.resources
+C:\Users\CS\Documents\kus\autoscreencapture\obj\Debug\autoscreen.FormMain.resources
+C:\Users\CS\Documents\kus\autoscreencapture\obj\Debug\autoscreen.Properties.Resources.resources
+C:\Users\CS\Documents\kus\autoscreencapture\obj\Debug\autoscreen.csproj.GenerateResource.Cache
